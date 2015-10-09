@@ -1,23 +1,65 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <link rel="stylesheet" type="text/css" href="style.css" />
-</head>
+
+ <link rel="stylesheet" type="text/css" href="style.css" />
 <font face="Comic Sans MS" color="White"> 
 <title> Red Panda </title>
     <style>
     body {
-        background-image: url("{
-    background-image: url("http://hdwgo.com/wp-content/uploads/2015/03/Landscape-1080p-Background.jpg");
+    	background-image: url("http://3.bp.blogspot.com/-KPDiqtSdnyA/VZYQhqk-
+
+A7I/AAAAAAAAM8c/ltuXP94d-qE/s1600/nature-corner-landscape-hd-1080p-12-hd-wallpapers.jpg");
+	background-repeat: no-repeat;
+	}
+    img {
+    border-color: #6495ED;
+    background-color: #0080FF;
+    border-radius: 15px;
+    margin: auto;
+    text-align: center;
+	}
+   .readThis {
+	height: 50px;
+    width: 120px;
+    border-color: #6495ED;
+    background-color: #0080FF;
+    border-radius: 360px;
+    margin: auto;
+    text-align: center;
 }
-");
-} 
- </style>
+header {
+    border-color: #6495ED;
+    background-color: #FF0000;
+    border-radius: 360px;
+    margin: auto;
+    text-align: center;
+}
+.spooky {
+ border-color: #6495ED;
+    background-color: black;
+    border-radius: 360px;
+    margin: auto;
+    text-align: center;
+}
+ 
+    </style>
+
+</head>
     <body>
-    <h1><header><center>Red Panda</center></header></h1>
-    <center> spooky and cool all in one!</center>
-    <p><center><a href="http://chocolatecitylive.com/wp-content/uploads/2015/03/ccl-website-under-construction.gif">Read This!</a></center></p>
-     <a href="http://cdn.cutestpaw.com/wp-content/uploads/2012/04/Red-Panda-is-a-Happy-Napper-l.jpg">
-    <p><center><img src="http://cdn.cutestpaw.com/wp-content/uploads/2012/04/Red-Panda-is-a-Happy-Napper-l.jpg"/><a/></center></p></font>
+    <header><center>Red Panda</center></header>
+<br>
+    <h1 class="spooky" border="5" ><center> spooky and cool all in one!</center></h1>
+    <div class="readThis">
+    <p align="center"><a href="http://ddsdata.in/">Read This!</a></p>
+    </div>
+	
+	<br>
+
+    <a href="http://cdn.cutestpaw.com/wp-content/uploads/2012/04/Red-Panda-is-a-Happy-Napper-l.jpg"><p 
+
+align="center"><img     src="http://cdn.cutestpaw.com/wp-content/uploads/2012/04/Red-Panda-is-a-
+
+Happy-Napper-l.jpg"/><a/></p></font>
 </body>
 </html>
